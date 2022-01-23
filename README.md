@@ -1,4 +1,4 @@
-### Hi there 👋
+# 勇于自我革命 赢得历史主动 👋
 
 <!--
 **hztangshengz/hztangshengz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
